@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="stylesheet" type="text/css" href="css/style.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="style.css">
+            <title>HISTÓRICO</title>
+        </head>
+        <body>
+            <div class="resume">
+                <div class="left">
+                    <br>
+                    <img src="profilePic.1234.jpg" class="profile" alt="profile-picture">
+                    <div class="identific">
+                        <label for="identification">IDENTIFIQUE-SE</label>
+                        <input type="password" name="identification" id="password">
+                        <button id="btnExe" onclick="displayUsers();">PROCURAR</button>
+                    </div>
+                    <div id="display-data">
+                        <!--<p class="left-p">Olá</p>
+                        <h2 class="name" id="userName">BENTO <strong id="lastName">Santana</strong></h2>
+                        <p class="p1">Prof. Subst. de Ens. Fundamental</p>
+                    
+                        <br>
+                        <h2 class="heading-1">&nbsp;U.E. ATUAL</h2>
+                        <p class="com-p"><i class="fa fa-building"></i> &nbsp;&nbsp;EMEB Pingo de Gente</p>
+                        <p class="com-p"><i class="fa fa-graduation-cap" aria-hidden="true"></i> &nbsp;JARDIM 2 - B</p>
+                        <p class="com-p"><i class="fa fa-clock-o" aria-hidden="true"></i> &nbsp;&nbsp;TARDE</p>
+                        <br>
+                        <h2 class="heading-1">&nbsp;ANO</h2>
+                        <p class="com-p"><i class="fa fa-calendar"></i> &nbsp;&nbsp;ANO</p>
+                        <select name="anos" class="com-i" id="anofreq">
+                            <option value="2023">2023</option>
+                            <option value="2022">2022</option>
+                            <option value="2021">2021</option>
+                            <option value="2020">2020</option>
+                        </select>-->
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="sect-one">
+                        <div class="content">
+                            <div class="title">
+                                <p class="label-1">ABONADAS</p>
+                                <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                                <select name="periodFreq" class="com-i com-f" id="periodFreqAbonada">
+                                    <option value="Fev2023">01/01/2023 - 31/01/2023</option>
+                                    <option value="Mar2023">01/02/2023 - 02/03/2023</option>
+                                    <option value="Abr2023">03/03/2023 - 31/03/2023</option>
+                                    <option value="Mai2023">01/04/2023 - 03/05/2023</option>
+                                    <option value="Jun2023">04/05/2023 - 01/06/2023</option>
+                                    <option value="Jul2023">02/06/2023 - 03/07/2023</option>
+                                    <option value="Ago2023">04/07/2023 - 02/08/2023</option>
+                                    <option value="Set2023">03/08/2023 - 01/09/2023</option>
+                                    <option value="Out2023">02/09/2023 - 03/10/2023</option>
+                                    <option value="Nov2023">04/10/2023 - 31/10/2023</option>
+                                    <option value="Dez2023">01/11/2023 - 29/11/2023</option>
+                                    <option value="Jan2024">02/12/2023 - 22/12/2023</option>
+                                </select>
+                            </div>
+                            <ul class="p5">
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="sect-two">
+                        <div class="content-2 content">
+                            <div class="title">
+                                <p class="label-1 label-2">OUTRAS</p>
+                                <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                                <select name="periodFreq" class="com-i com-f" id="periodFreqOutras">
+                                    <option value="Fev2023">01/01/2023 - 31/01/2023</option>
+                                    <option value="Mar2023">01/02/2023 - 02/03/2023</option>
+                                    <option value="Abr2023">03/03/2023 - 31/03/2023</option>
+                                    <option value="Mai2023">01/04/2023 - 03/05/2023</option>
+                                    <option value="Jun2023">04/05/2023 - 01/06/2023</option>
+                                    <option value="Jul2023">02/06/2023 - 03/07/2023</option>
+                                    <option value="Ago2023">04/07/2023 - 02/08/2023</option>
+                                    <option value="Set2023">03/08/2023 - 01/09/2023</option>
+                                    <option value="Out2023">02/09/2023 - 03/10/2023</option>
+                                    <option value="Nov2023">04/10/2023 - 31/10/2023</option>
+                                    <option value="Dez2023">01/11/2023 - 29/11/2023</option>
+                                    <option value="Jan2024">02/12/2023 - 22/12/2023</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sect-three">
+                        <div class="content-3 content">
+                            <div class="title">
+                                <p class="label-1 label-3">CARGAS</p>
+                                <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                                <select name="periodFreq" class="com-i com-f" id="periodFreqCargas">
+                                    <option value="Fev2023">01/01/2023 - 31/01/2023</option>
+                                    <option value="Mar2023">01/02/2023 - 02/03/2023</option>
+                                    <option value="Abr2023">03/03/2023 - 31/03/2023</option>
+                                    <option value="Mai2023">01/04/2023 - 03/05/2023</option>
+                                    <option value="Jun2023">04/05/2023 - 01/06/2023</option>
+                                    <option value="Jul2023">02/06/2023 - 03/07/2023</option>
+                                    <option value="Ago2023">04/07/2023 - 02/08/2023</option>
+                                    <option value="Set2023">03/08/2023 - 01/09/2023</option>
+                                    <option value="Out2023">02/09/2023 - 03/10/2023</option>
+                                    <option value="Nov2023">04/10/2023 - 31/10/2023</option>
+                                    <option value="Dez2023">01/11/2023 - 29/11/2023</option>
+                                    <option value="Jan2024">02/12/2023 - 22/12/2023</option>
+                                </select>
+                            </div>
+                            <ul class="p5">
+                                <li><strong>07/06/2023</strong> - RECUPERAÇÃO PARALELA: <strong>4H30</strong></li>
+                            </ul>
+                            <div class="horas">
+                                <label for="horasFeitas">TOTAL DE HORAS
+                                <input type="text" name="horasFeitas" value="25H" disabled class="totalHoras"></label>
+                                <label for="salario">SEU SALÁRIO
+                                <input type="text" name="salario" class="totalHoras"></label>
+                                <label for="recibo">VALOR A RECEBER
+                                <input type="text" name="recibo" value="" disabled class="totalHoras"></label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <script src="scripts.js"></script>
+        </body>
+    </html>

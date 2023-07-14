@@ -1,0 +1,22 @@
+[
+    {
+        "userID": "1234",
+        "name": "Bento",
+        "lastName": "Santana",
+        "cargo": "Professor Subst. Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "Jardim 1 - A",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020"
+    },
+    {
+        "userID": "4321",
+        "name": "Lucas",
+        "lastName": "Santana",
+        "cargo": "Professor Subst. Educ. Infantil",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "5ª ANO - A",
+        "periodo": "Manhã",
+        "anos": "2023,2022,2021,2020,2019,2018"
+    }
+]

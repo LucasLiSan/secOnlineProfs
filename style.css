@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+
+:root {
+	--lightred:#001729;
+	--darkred:#08243b;
+	--white:#ffffff;
+	--lightwhite: #dfdfdf;
+	--black:#010103;
+}
+
+body {
+	background: linear-gradient(45deg, #9a9a9a, #808080);
+	font-family: 'Mukta', sans-serif;
+}
+
+html {
+    overflow: auto;
+}
+
+.left-p {
+	font-size: 19px;
+    background: var(--lightred);
+    padding: 0px 0px;
+    text-align: center;
+}
+
+.resume {
+	width: 700px;
+    height: 100vh;
+	background: var(--darkred);
+	margin: 50px auto;
+	position: relative;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.left {
+	width: 200px;
+	float: left;
+	padding: 25px;
+	color: var(--white);
+	background: var(--darkred);
+}
+
+.identific {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+.identific input {
+    text-align: center;
+    font-weight: bold;
+}
+
+.name {
+    font-size: 24px;
+    text-align: center;
+    text-transform:uppercase;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+}
+
+.p1 {
+    color: var(--lightwhite);
+    text-align: center;
+    margin-top: -5px;
+    font-size: 14px;
+}
+
+.right {
+    width: 450px;
+    height: 100vh;
+    float: left;
+    text-align: center;
+    overflow: auto;
+    background: var(--darkred);
+}
+
+.profile {
+    width: 93%;
+    border-radius: 50%;
+    border: 7px solid white;
+}
+
+.heading-1 {
+	background: #001729;
+    margin: 0px -25px;
+    padding-left: 25px;
+    text-transform: uppercase;
+    font-weight: 200;
+}
+
+.com-p {
+    margin: 0px;
+    color:var(--lightwhite);
+    text-transform: uppercase;
+}
+
+.com-i {
+    width: 150px;
+    height: 40px;
+    color:var(--black);
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.com-f {
+    width: 195px;
+    height: 27px;
+    font-size: 15px;
+    border: none;
+    border-radius: 30px;
+    background-color: #dfdfdf70;
+}
+
+#periodFreqAbonada:hover, #periodFreqOutras:hover,
+#periodFreqCargas:hover {
+    border-bottom: solid #f50545;
+}
+
+.title {
+    display: flex;
+    width: 100%;
+    position: relative;
+    align-items: center;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.sect-one, .sect-two, .sect-three {
+    position: relative;
+}
+
+.label-1 {
+	background: #f87701;
+    color: white;
+    position: relative;
+    width: 97%;
+    padding: 5px;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.label-2 {
+	background: #91c917;
+}
+
+.label-3 {
+	background: #f50545;
+}
+
+.content {
+	width: 450px;
+	float: left;
+	height: auto;
+    background: #e6964b;
+}
+
+.content-2 {
+    background: #a6d345;
+}
+
+.content-3 {
+    background: #eb4f79;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.p5 {
+    position: relative;
+    width: 100%;
+    text-align: left;
+    list-style: none;
+    padding: 0;
+}
+
+.p5 li {
+    text-align: center;
+}
+
+.horas {
+    position: relative;
+    left: 8px;
+    width: 95%;
+    margin: 15px 0 15px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.horas label {
+    font-weight: bold;
+}
+
+.totalHoras {
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    color: #ff0000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.p5 li:nth-child(odd) {
+    background-color: #ffffff;
+}
