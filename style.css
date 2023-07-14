@@ -23,6 +23,7 @@ html {
     background: var(--lightred);
     padding: 0px 0px;
     text-align: center;
+    margin-bottom: 0;
 }
 
 .resume {
@@ -56,6 +57,27 @@ html {
 .identific input {
     text-align: center;
     font-weight: bold;
+    margin-bottom: 4px;
+}
+
+#btnExe {
+    width: 115px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    background: #FFEB3B;
+    border: none;
+    border-radius: 30px;
+}
+
+#btnExe:hover {
+    background: #0000ff;
+    color: #ffffff;
+}
+
+#btnExe:active {
+    background: #ff0000;
+    color: #ffffff;
 }
 
 .name {
@@ -64,7 +86,7 @@ html {
     text-transform:uppercase;
     font-weight: 100;
     letter-spacing: 2px;
-    margin-bottom: 0px;
+    margin: 0px;
 }
 
 .p1 {
@@ -91,7 +113,7 @@ html {
 
 .heading-1 {
 	background: #001729;
-    margin: 0px -25px;
+    margin: 0px -25px 15px;
     padding-left: 25px;
     text-transform: uppercase;
     font-weight: 200;
