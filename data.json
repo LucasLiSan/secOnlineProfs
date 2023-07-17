@@ -10,13 +10,133 @@
         "anos": "2023,2022,2021,2020"
     },
     {
-        "userID": "4321",
-        "name": "Lucas",
-        "lastName": "Santana",
-        "cargo": "Professor Subst. Educ. Infantil",
+        "userID": "1002453758",
+        "name": "Denise",
+        "lastName": "Barros",
+        "cargo": "Professor de Educ. Infantil",
         "ueAtual": "EMEB Pingo de Gente",
-        "turma": "5ª ANO - A",
+        "turma": "Jardim 1 - A",
         "periodo": "Manhã",
-        "anos": "2023,2022,2021,2020,2019,2018"
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002"
+    },
+    {
+        "userID": "1826808",
+        "name": "Eliana C.",
+        "lastName": "Rodrigues",
+        "cargo": "Professor de Educ. Infantil",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "Jardim 2 - A",
+        "periodo": "Manhã",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995"
+    },
+    {
+        "userID": "2056648",
+        "name": "Rosemeire",
+        "lastName": "Almeida",
+        "cargo": "Professor de Educ. Infantil",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "Jardim 1 - B",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995"
+    },
+    {
+        "userID": "1941648",
+        "name": "Gisele",
+        "lastName": "Ramalho",
+        "cargo": "Professor de Educ. Infantil",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "Jardim 2 - B",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994"
+    },
+    {
+        "userID": "2684028",
+        "name": "Lucimara",
+        "lastName": "Tognin",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "1ª Ano - A",
+        "periodo": "Manhã",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000"
+    },
+    {
+        "userID": "2772938",
+        "name": "Ana P.",
+        "lastName": "Silva",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "1ª Ano - B",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002"
+    },
+    {
+        "userID": "5524158",
+        "name": "Giovany",
+        "lastName": "Pereira",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "2ª Ano - A",
+        "periodo": "Manhã",
+        "anos": "2023,2022,2021,2020"
+    },
+    {
+        "userID": "1002181288",
+        "name": "Renata",
+        "lastName": "Camargo",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "2ª Ano - B",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005"
+    },
+    {
+        "userID": "3494268",
+        "name": "Tatiane",
+        "lastName": "Lobo",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "3ª Ano - A",
+        "periodo": "Manhã",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009"
+    },
+    {
+        "userID": "1003427588",
+        "name": "Regiane",
+        "lastName": "Funk",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "3ª Ano - B",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009"
+    },
+    {
+        "userID": "1002986898",
+        "name": "Berenice",
+        "lastName": "Pereira",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "4ª Ano - A",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009"
+    },
+    {
+        "userID": "1004989678",
+        "name": "Rosaní",
+        "lastName": "Rodrigues",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "5ª Ano - A",
+        "periodo": "Manhã",
+        "anos": "2023,2022,2021,2020,2019"
+    },
+    {
+        "userID": "3423348",
+        "name": "Andreia",
+        "lastName": "Freitas",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pingo de Gente",
+        "turma": "5ª Ano - B",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008"
     }
 ]
