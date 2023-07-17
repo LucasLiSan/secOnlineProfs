@@ -30,7 +30,7 @@ html {
 	width: 700px;
     height: 100vh;
 	background: var(--darkred);
-	margin: 50px auto;
+	margin: 0 auto;
 	position: relative;
 }
 
