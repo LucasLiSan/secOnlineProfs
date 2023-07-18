@@ -26,6 +26,12 @@ html {
     margin-bottom: 0;
 }
 
+.login-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .resume {
 	width: 700px;
     height: 100vh;

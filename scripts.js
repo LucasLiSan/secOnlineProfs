@@ -84,63 +84,171 @@ async function displayPeriods() {
             return eventData;
         }
     }).map((Object) => {
-        const { yearKey, freqMes, FreqPeriod } = Object;
+        const { freqMes, FreqPeriod } = Object;
 
         var contMes = freqMes.split(',').filter((i) => i.length).length - 1;
         var mesFreq = freqMes.split(',');
-        var contPeriod = FreqPeriod.split(',').filter((i) => i.length).length - 1;
         var PeriodFreq = FreqPeriod.split(',');
 
         let optsMes = "";
         while (contMes >= 0) {
-            optsMes += `<option value="${contMes}">${PeriodFreq[contMes]}</option>`;
+            optsMes += `<option value="${mesFreq[contMes]}<">${PeriodFreq[contMes]}</option>`;
 
             contMes--;
         }
 
+        document.getElementById("login").classList.remove("login-in");
+
         return `
-            <div class="sect-one">
-                <div class="content">
-                    <div class="title">
-                        <p class="label-1">ABONADAS</p>
-                        <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
-                        <select name="periodFreq" class="com-i com-f" id="periodFreqAbonada">
-                            ${optsMes}
-                        </select>
-                    </div>
-                    <ul class="p5"></ul>
-                </div>
-            </div>
-            <div class="sect-two">
-                <div class="content-2 content">
-                    <div class="title">
-                        <p class="label-1 label-2">OUTRAS</p>
-                        <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
-                        <select name="periodFreq" class="com-i com-f" id="periodFreqOutras">
-                            ${optsMes}
-                        </select>
+            <div class="right">
+                <div class="sect-one">
+                    <div class="content">
+                        <div class="title">
+                            <p class="label-1">ABONADAS</p>
+                            <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                            <select name="periodFreq" class="com-i com-f" id="periodFreqAbonada">
+                                ${optsMes}
+                            </select>
+                        </div>
+                        <ul class="p5">
+                            <div id="display-abonadas"></div>
+                        </ul>
                     </div>
                 </div>
-            </div>
-            <div class="sect-three">
-                <div class="content-3 content">
-                    <div class="title">
-                        <p class="label-1 label-3">CARGAS</p>
-                        <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
-                        <select name="periodFreq" class="com-i com-f" id="periodFreqCargas">
-                            ${optsMes}
-                        </select>
+                <div class="sect-two">
+                    <div class="content-2 content">
+                        <div class="title">
+                            <p class="label-1 label-2">OUTRAS</p>
+                            <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                            <select name="periodFreq" class="com-i com-f" id="periodFreqOutras">
+                                ${optsMes}
+                            </select>
+                            <ul class="p5">
+                                <div id="display-outras"></div>
+                            </ul>
+                        </div>
                     </div>
-                    <ul class="p5">
-                        <li><strong>07/06/2023</strong> - RECUPERAÇÃO PARALELA: <strong>4H30</strong></li>
-                    </ul>
-                    <div class="horas">
-                        <label for="horasFeitas">TOTAL DE HORAS
-                        <input type="text" name="horasFeitas" value="25H" disabled class="totalHoras"></label>
-                        <label for="salario">SEU SALÁRIO
-                        <input type="text" name="salario" class="totalHoras"></label>
-                        <label for="recibo">VALOR A RECEBER
-                        <input type="text" name="recibo" value="" disabled class="totalHoras"></label>
+                </div>
+                <div class="sect-three">
+                    <div class="content-3 content">
+                        <div class="title">
+                            <p class="label-1 label-3">CARGAS</p>
+                            <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                            <select name="periodFreq" class="com-i com-f" id="periodFreqCargas">
+                                ${optsMes}
+                            </select>
+                        </div>
+                        <ul class="p5">
+                            <div id="display-cargas"></div>
+                            <li><strong>07/06/2023</strong> - RECUPERAÇÃO PARALELA: <strong>4H30</strong></li>
+                        </ul>
+                        <div class="horas">
+                            <label for="horasFeitas">TOTAL DE HORAS
+                            <input type="text" name="horasFeitas" value="25H" disabled class="totalHoras"></label>
+                            <label for="salario">SEU SALÁRIO
+                            <input type="text" name="salario" class="totalHoras"></label>
+                            <label for="recibo">VALOR A RECEBER
+                            <input type="text" name="recibo" value="" disabled class="totalHoras"></label>
+                        </div>
+                    </div>
+                </div>
+            </div>`;
+    }).join("");
+    displayRight.innerHTML = FreqDisplay;
+}
+
+//ocorrencias abonadas
+
+const sourceOcorr = 'ocorrencias.json';
+const displayAbon = document.querySelector("#display-abonadas");
+
+async function getDataAbon () {
+    const results = await fetch(sourceOcorr);
+    const dataOcorr = await results.json();
+    return dataOcorr
+}
+
+async function displayOcorrAbon() {
+    var dropAbonadas = document.getElementById("anofreq");
+    var anoVal = dropAbonadas.value;
+    var yearFreq = anoVal;
+
+    const frequencia = await getDataAbon();
+
+    let FreqDisplay = frequencia.filter((eventData) => {
+        if (yearFreq === "") {
+            return "";
+        }
+        else if (yearFreq === eventData.yearKey) {
+            return eventData;
+        }
+    }).map((Object) => {
+        const { freqMes, FreqPeriod } = Object;
+
+        var contMes = freqMes.split(',').filter((i) => i.length).length - 1;
+        var mesFreq = freqMes.split(',');
+        var PeriodFreq = FreqPeriod.split(',');
+
+        let optsMes = "";
+        while (contMes >= 0) {
+            optsMes += `<option value="${mesFreq[contMes]}<">${PeriodFreq[contMes]}</option>`;
+
+            contMes--;
+        }
+
+        document.getElementById("login").classList.remove("login-in");
+
+        return `
+            <div class="right">
+                <div class="sect-one">
+                    <div class="content">
+                        <div class="title">
+                            <p class="label-1">ABONADAS</p>
+                            <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                            <select name="periodFreq" class="com-i com-f" id="periodFreqAbonada">
+                                ${optsMes}
+                            </select>
+                        </div>
+                        <ul class="p5">
+                            <div id="display-abonadas"></div>
+                        </ul>
+                    </div>
+                </div>
+                <div class="sect-two">
+                    <div class="content-2 content">
+                        <div class="title">
+                            <p class="label-1 label-2">OUTRAS</p>
+                            <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                            <select name="periodFreq" class="com-i com-f" id="periodFreqOutras">
+                                ${optsMes}
+                            </select>
+                            <ul class="p5">
+                                <div id="display-outras"></div>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="sect-three">
+                    <div class="content-3 content">
+                        <div class="title">
+                            <p class="label-1 label-3">CARGAS</p>
+                            <label class="freqPeriod" for="periodFreq">PERÍODO DE FREQUÊNCIA:</label>
+                            <select name="periodFreq" class="com-i com-f" id="periodFreqCargas">
+                                ${optsMes}
+                            </select>
+                        </div>
+                        <ul class="p5">
+                            <div id="display-cargas"></div>
+                            <li><strong>07/06/2023</strong> - RECUPERAÇÃO PARALELA: <strong>4H30</strong></li>
+                        </ul>
+                        <div class="horas">
+                            <label for="horasFeitas">TOTAL DE HORAS
+                            <input type="text" name="horasFeitas" value="25H" disabled class="totalHoras"></label>
+                            <label for="salario">SEU SALÁRIO
+                            <input type="text" name="salario" class="totalHoras"></label>
+                            <label for="recibo">VALOR A RECEBER
+                            <input type="text" name="recibo" value="" disabled class="totalHoras"></label>
+                        </div>
                     </div>
                 </div>
             </div>`;

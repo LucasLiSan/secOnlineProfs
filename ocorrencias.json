@@ -1,0 +1,68 @@
+{
+    "2023": {
+        "1234": {
+            "Fev2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H",
+                "tcargas":"13H"
+            },
+            "Mar2023": {
+                "abonadas":"1 - 01/02/2023", 
+                "outras":"1 - LS: 04/02/2023 A 08/02/2023",
+                "cargas":"13/02/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/02/2023 - RECUPERAÇÃO PARALELA: 4H,15/02/2023 - RECUPERAÇÃO PARALELA: 3H30",
+                "tcargas":"12H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mai2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H"
+            },
+            "Jun2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H"
+            },
+            "Jul2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H"
+            },
+            "Ago2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H"
+            },
+            "Out2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H"
+            },
+            "Nov2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H"
+            },
+            "Dez2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H"
+            },
+            "Jan2023": {
+                "abonadas":"1 - 02/01/2023", 
+                "outras":"1 - LS: 03/01/2023 A 08/01/2023, 1 - FSO: 09/01/2023 A 12/01/2023",
+                "cargas":"13/01/2023 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2023 - RECUPERAÇÃO PARALELA: 4H,15/01/2023 - RECUPERAÇÃO PARALELA: 3H30,16/01/2023 - RECUPERAÇÃO PARALELA: 3H"
+            }
+        },
+        "Ford": {
+            "Taurus": {"doors":4, "transmission":"automatic"},
+            "Escort": {"doors":4, "transmission":"automatic"}
+        }
+    }
+}
