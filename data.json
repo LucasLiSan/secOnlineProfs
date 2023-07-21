@@ -155,8 +155,48 @@
         "lastName": "Pedroso",
         "cargo": "Professor Subst. de Educ. Infantil",
         "ueAtual": "EMEB Pref. Josino Silveira",
-        "turma": "JARDIM 2 - C",
+        "turma": "Jardim 2 - C",
         "periodo": "Tarde",
         "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002"
+    },
+    {
+        "userID": "1004687568",
+        "name": "Ana P.",
+        "lastName": "Amaral",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Pref. José de Carvalho",
+        "turma": "5ª Ano - B",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014"
+    },
+    {
+        "userID": "3432708",
+        "name": "Marilia F.",
+        "lastName": "Gomes",
+        "cargo": "Professor de Educ. Infantil",
+        "ueAtual": "EMEB Prof. Olga Clivatti",
+        "turma": "Jardim 2 - A",
+        "periodo": "Tarde",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008"
+    },
+    {
+        "userID": "3499178",
+        "name": "Mariusa",
+        "lastName": "Dias",
+        "cargo": "Professor de Ens. Fundamental",
+        "ueAtual": "EMEB Oleriano Gonçalves",
+        "turma": "MULTI (1ª E 2ª ANO) - A",
+        "periodo": "Manhã",
+        "anos": "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009"
+    },
+    {
+        "userID": "1004309898",
+        "name": "Regiane C.",
+        "lastName": "Muniz",
+        "cargo": "Professor Subst. de Ens. Fundamental",
+        "ueAtual": "EMEB Brig. Alberto Bertelli",
+        "turma": "2ª Ano - A",
+        "periodo": "Manhã",
+        "anos": "2023,2022,2021,2020,2019"
     }
 ]

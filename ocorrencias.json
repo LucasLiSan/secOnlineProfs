@@ -612,40 +612,608 @@
     },
     "2022": {
         "1234": {
-            "Fev2022": {
-                "abonadas":"1 - 02/01/2022", 
-                "outras":"1 - LS: 03/01/2022 A 08/01/2022, 1 - FSO: 09/01/2022 A 12/01/2022",
-                "cargas":"13/01/2022 - RECUPERAÇÃO PARALELA: 1H, 14/01/2022 - RECUPERAÇÃO PARALELA: 1H,15/01/2022 - RECUPERAÇÃO PARALELA: 2H30,16/01/2022 - RECUPERAÇÃO PARALELA: 2H",
-                "tcargas":"6H30"
+            "Fev2022": { 
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
             },
             "Mar2022": {
-                "abonadas":"1 - 01/02/2022", 
-                "outras":"1 - LS: 04/02/2022 A 08/02/2022",
-                "cargas":"13/02/2022 - RECUPERAÇÃO PARALELA: 1H30, 14/02/2022 - RECUPERAÇÃO PARALELA: 2H,15/02/2022 - RECUPERAÇÃO PARALELA: 2H30",
-                "tcargas":"12H"
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
             },
             "Abr2022": {
                 "abonadas":"SEM OCORRENCIA", 
                 "outras":"SEM OCORRENCIA",
                 "cargas":"SEM OCORRENCIA",
                 "tcargas":"0H"
+            },
+            "Mai2022": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Jun2022": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Jul2022": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
             }
         },
-        "4321": {
+        "1002453758": {
             "Fev2022": {
-                "abonadas":"1 - 02/01/2022", 
-                "outras":"1 - LS: 03/01/2022 A 08/01/2022, 1 - FSO: 09/01/2022 A 12/01/2022",
-                "cargas":"13/01/2022 - RECUPERAÇÃO PARALELA: 4H30, 14/01/2022 - RECUPERAÇÃO PARALELA: 4H,15/01/2022 - RECUPERAÇÃO PARALELA: 3H30,16/01/2022 - RECUPERAÇÃO PARALELA: 3H",
-                "tcargas":"13H"
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
             },
             "Mar2022": {
-                "abonadas":"1 - 01/02/2022", 
-                "outras":"1 - LS: 04/02/2022 A 08/02/2022",
-                "cargas":"13/02/2022 - RECUPERAÇÃO PARALELA: 4H30, 14/02/2022 - RECUPERAÇÃO PARALELA: 4H,15/02/2022 - RECUPERAÇÃO PARALELA: 3H30",
-                "tcargas":"12H"
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Abr2022": {
+                "abonadas":"SEM OCORRENCIA",
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"SEM OCORRENCIA"
+            },
+            "Mai2022": {
+                "abonadas":"SEM OCORRENCIA",
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"SEM OCORRENCIA"
+            },
+            "Jun2022": {
+                "abonadas":"SEM OCORRENCIA",
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"SEM OCORRENCIA"
+            },
+            "Jul2022": {
+                "abonadas":"SEM OCORRENCIA",
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"SEM OCORRENCIA"
+            }
+        },
+        "1826808": {
+            "Fev2022": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2022": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
             },
             "Abr2022": {
                 "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"17/03/2023 - JARDIM 2-B (MARIA ZILDA) - 5H,20/03/2023 - JARDIM 1-A (OLGA CLIVATTI) - 5H,23/03/2023 - JARDIM 1-A (OLGA CLIVATTI) - 5H",
+                "tcargas":"15H"
+            },
+            "Mai2022": {
+                "abonadas":"1 - 28/04/2023,2 - 02/05/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Jun2022": {
+                "abonadas":"A - 31/05/2023", 
+                "outras":"LS: 01/06/2023",
+                "cargas":"29/05/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Jul2022": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            }
+        },
+        "2056648": {
+            "Fev2022": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2022": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"10/02/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"24/03/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Mai2023": {
+                "abonadas":"1 - 06/04/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Jun2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"23/05/2023 - EDUCAÇÃO FÍSICA - 1H,26/05/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"2H"
+            },
+            "Jul2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"16/06/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            }
+        },
+        "1941648": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"1 - 02/03/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"10/02/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"FSO: 14/03/2023",
+                "cargas":"24/03/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Mai2023": {
+                "abonadas":"2 - 25/04/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Jun2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"26/05/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Jul2023": {
+                "abonadas":"3 - 05/06/2023", 
+                "outras":"FSO: 06/06/2023 E 07/06/2023",
+                "cargas":"16/06/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            }
+        },
+        "2684028": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"08/03/2023 - RECUPERAÇÃO PARALELA - 4H,15/03/2023 - RECUPERAÇÃO PARALELA - 4H,20/03/2023 - 1ª ANO (PINGO DE GENTE) - 5H,22/03/2023 - RECUPERAÇÃO PARALELA - 4H,29/03/2023 - RECUPERAÇÃO PARALELA - 4H",
+                "tcargas":"21H"
+            },
+            "Mai2023": {
+                "abonadas":"1 - 10/04/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"05/04/2023 - RECUPERAÇÃO PARALELA - 4H30,12/04/2023 - RECUPERAÇÃO PARALELA - 4H30,19/04/2023 - RECUPERAÇÃO PARALELA - 4H30,26/04/2023 - RECUPERAÇÃO PARALELA - 4H30,02/05/2023 - EDUCAÇÃO FÍSICA - 1H,03/05/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"22H30"
+            },
+            "Jun2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"10/05/2023 - RECUPERAÇÃO PARALELA - 4H30,17/05/2023 - RECUPERAÇÃO PARALELA - 4H30,18/05/2023 - RECUPERAÇÃO PARALELA - 4H30,24/05/2023 - RECUPERAÇÃO PARALELA - 4H30,25/05/2023 - RECUPERAÇÃO PARALELA - 4H30,29/05/2023 - EDUCAÇÃO FÍSICA - 1H,31/05/2023 - RECUPERAÇÃO PARALELA - 4H30,01/06/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"32H30"
+            },
+            "Jul2023": {
+                "abonadas":"2 - 24/06/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"05/06/2023 - RECUPERAÇÃO PARALELA - 4H30,07/06/2023 - RECUPERAÇÃO PARALELA - 4H30,12/06/2023 - RECUPERAÇÃO PARALELA - 4H30,15/06/2023 - RECUPERAÇÃO PARALELA - 4H30,20/06/2023 - 2ª ANO (PINGO DE GENTE) - 5H,21/06/2023 - RECUPERAÇÃO PARALELA - 4H30,22/06/2023 - RECUPERAÇÃO PARALELA - 4H30,28/06/2023 - RECUPERAÇÃO PARALELA - 4H30,29/06/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"41H"
+            }
+        },
+        "2772938": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Abr2023": {
+                "abonadas":"1 - 20/03/2023,A - 21/03/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"24/03/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Mai2023": {
+                "abonadas":"2 - 28/04/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"12/04/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Jun2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"26/05/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Jul2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"16/06/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            }
+        },
+        "5524158": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"06/02/2023 - EDUCAÇÃO FÍSICA - 1H,14/02/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"2H"
+            },
+            "Abr2023": {
+                "abonadas":"1 - 07/03/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"06/03/2023 - 2ª ANO-B (PINGO DE GENTE) - 5H,09/03/2023 - RECUPERAÇÃO PARALELA - 3H,15/03/2023 - 2º ANO-B (JOÃO POCI) - 5H,16/03/2023 - RECUPERAÇÃO PARALELA - 4H,23/03/2023 - RECUPERAÇÃO PARALELA - 4H,30/03/2023 - RECUPERAÇÃO PARALELA - 4H",
+                "tcargas":"25H"
+            },
+            "Mai2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"05/04/2023 - RECUPERAÇÃO PARALELA - 4H30,06/04/2023 - RECUPERAÇÃO PARALELA - 4H30,14/04/2023 - RECUPERAÇÃO PARALELA - 4H30,19/04/2023 - RECUPERAÇÃO PARALELA - 4H30,24/04/2023 - 5ª ANO-B (JOSÉ DE CARVALHO) - 5H,02/05/2023 - EDUCAÇÃO FÍSICA - 1H,03/05/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"31H30"
+            },
+            "Jun2023": {
+                "abonadas":"2 - 12/05/2023,A - 11/05/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"10/05/2023 - RECUPERAÇÃO PARALELA - 4H30,15/05/2023 - 2ª ANO-A (ANNA PINTO) - 5H,17/05/2023 - RECUPERAÇÃO PARALELA - 4H30,19/05/2023 - RECUPERAÇÃO PARALELA - 4H30,29/05/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"19H30"
+            },
+            "Jul2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"07/06/2023 - 2ª ANO-B (PINGO DE GENTE) - 5H,07/06/2023 - EDUCAÇÃO FÍSICA - 1H,12/06/2023 - 1ª ANO-B (NICEA HIROTA) - 5H,21/06/2023 - 2ª ANO-B (PINGO DE GENTE) - 5H,22/06/2023 - 2ª ANO-B (PINGO DE GENTE) - 5H,23/06/2023 - 2ª ANO-B (PINGO DE GENTE) - 5H,26/06/2023 - 2ª ANO-B (PINGO DE GENTE) - 5H,27/06/2023 - 2ª ANO-B (PINGO DE GENTE) - 5H,27/06/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"43H30"
+            }
+        },
+        "1002181288": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Abr2023": {
+                "abonadas":"1 - 06/03/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mai2023": {
+                "abonadas":"2 - 26/04/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"25/04/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Jun2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Jul2023": {
+                "abonadas":"3 - 07/06/2023", 
+                "outras":"LUTO: 19/06/2023 A 26/06/2023, LS: 27/06/2023",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            }
+        },
+        "3494268": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"06/02/2023 - EDUCAÇÃO FÍSICA - 1H,02/03/2023 - 3º ANO-B (PINGO DE GENTE) - 5H",
+                "tcargas":"6H"
+            },
+            "Abr2023": {
+                "abonadas":"1 - 09/03/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"06/03/2023 - RECUPERAÇÃO PARALELA - 4H,13/03/2023 - RECUPERAÇÃO PARALELA - 4H,20/03/2023 - RECUPERAÇÃO PARALELA - 4H,21/03/2023 - 1º ANO-B (PINGO DE GENTE) - 5H,27/03/2023 - RECUPERAÇÃO PARALELA - 4H",
+                "tcargas":"21H"
+            },
+            "Mai2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"03/04/2023 - RECUPERAÇÃO PARALELA - 4H30,04/04/2023 - 4ª ANO-A (PINGO DE GENTE) - 4H30,10/04/2023 - RECUPERAÇÃO PARALELA - 4H30,17/04/2023 - RECUPERAÇÃO PARALELA - 4H30,24/04/2023 - RECUPERAÇÃO PARALELA - 4H30,03/05/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"28H"
+            },
+            "Jun2023": {
+                "abonadas":"2 - 10/05/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"08/05/2023 - RECUPERAÇÃO PARALELA - 4H30,15/05/2023 - RECUPERAÇÃO PARALELA - 4H30,22/05/2023 - RECUPERAÇÃO PARALELA - 4H30,26/05/2023 - 5ª ANO-B (PINGO DE GENTE) - 5H,29/05/2023 - RECUPERAÇÃO PARALELA - 4H30,29/05/2023 - RECUPERAÇÃO PARALELA - 1H",
+                "tcargas":"24H"
+            },
+            "Jul2023": {
+                "abonadas":"3 - 28/06/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"05/06/2023 - RECUPERAÇÃO PARALELA - 4H30,07/06/2023 - 3ª ANO-B (PINGO DE GENTE) - 5H,07/06/2023 - EDUCAÇÃO FÍSICA - 1H,12/06/2023 - RECUPERAÇÃO PARALELA - 4H30,19/06/2023 - RECUPERAÇÃO PARALELA - 4H30,26/06/2023 - RECUPERAÇÃO PARALELA - 4H30,29/06/2023 - 5ª ANO-B (PINGO DE GENTE) - 5H,03/07/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"33H30"
+            }
+        },
+        "1003427588": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"1 - 02/03/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"06/03/2023 - RECUPERAÇÃO PARALELA - 4H,09/03/2023 - RECUPERAÇÃO PARALELA - 4H,13/03/2023 - RECUPERAÇÃO PARALELA - 4H,14/03/2023 - EDUCAÇÃO FÍSICA - 1H,16/03/2023 - RECUPERAÇÃO PARALELA - 4H,20/03/2023 - RECUPERAÇÃO PARALELA - 4H,23/03/2023 - RECUPERAÇÃO PARALELA - 4H,27/03/2023 - RECUPERAÇÃO PARALELA - 4H,30/03/2023 - RECUPERAÇÃO PARALELA - 4H",
+                "tcargas":"33H"
+            },
+            "Mai2023": {
+                "abonadas":"2 - 03/05/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"03/04/2023 - RECUPERAÇÃO PARALELA - 4H30,06/04/2023 - RECUPERAÇÃO PARALELA - 4H30,10/04/2023 - RECUPERAÇÃO PARALELA - 4H30,12/04/2023 - EDUCAÇÃO FÍSICA - 1H,13/04/2023 - RECUPERAÇÃO PARALELA - 4H30,17/04/2023 - RECUPERAÇÃO PARALELA - 4H30,20/04/2023 - RECUPERAÇÃO PARALELA - 4H30,24/04/2023 - RECUPERAÇÃO PARALELA - 4H30,25/04/2023 - EDUCAÇÃO FÍSICA - 1H,27/04/2023 - RECUPERAÇÃO PARALELA - 4H30,02/05/2023 - EDUCAÇÃO FÍSICA - 0H50",
+                "tcargas":"38H50"
+            },
+            "Jun2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"04/05/2023 - RECUPERAÇÃO PARALELA - 4H30,08/05/2023 - RECUPERAÇÃO PARALELA - 4H30,11/05/2023 - RECUPERAÇÃO PARALELA - 4H30,15/05/2023 - RECUPERAÇÃO PARALELA - 4H30,18/05/2023 - RECUPERAÇÃO PARALELA - 4H30,22/05/2023 - RECUPERAÇÃO PARALELA - 4H30,25/05/2023 - RECUPERAÇÃO PARALELA - 4H30,29/05/2023 - RECUPERAÇÃO PARALELA - 4H30,30/05/2023 - RECUPERAÇÃO PARALELA - 4H30,01/06/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"41H30"
+            },
+            "Jul2023": {
+                "abonadas":"3 - 07/06/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"05/06/2023 - RECUPERAÇÃO PARALELA - 4H30,12/06/2023 - RECUPERAÇÃO PARALELA - 4H30,15/06/2023 - RECUPERAÇÃO PARALELA - 4H30,19/06/2023 - RECUPERAÇÃO PARALELA - 4H30,20/06/2023 - RECUPERAÇÃO PARALELA - 4H30,22/06/2023 - RECUPERAÇÃO PARALELA - 4H30,27/06/2023 - EDUCAÇÃO FÍSICA - 1H,29/06/2023 - RECUPERAÇÃO PARALELA - 4H30,03/07/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"37H"
+            }
+        },
+        "1002986898": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"08/03/2023 - RECUPERAÇÃO PARALELA - 4H,15/03/2023 - RECUPERAÇÃO PARALELA - 4H,22/03/2023 - RECUPERAÇÃO PARALELA - 4H,29/03/2023 - RECUPERAÇÃO PARALELA - 4H",
+                "tcargas":"16H"
+            },
+            "Mai2023": {
+                "abonadas":"1 - 04/04/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"05/04/2023 - RECUPERAÇÃO PARALELA - 4H30,12/04/2023 - RECUPERAÇÃO PARALELA - 4H30,12/04/2023 - EDUCAÇÃO FÍSICA - 1H,19/04/2023 - RECUPERAÇÃO PARALELA - 4H30,26/04/2023 - RECUPERAÇÃO PARALELA - 4H30,03/05/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"23H30"
+            },
+            "Jun2023": {
+                "abonadas":"2 - 18/05/2023", 
+                "outras":"FSO: 19/05/2023",
+                "cargas":"09/05/2023 - RECUPERAÇÃO PARALELA - 4H30,10/05/2023 - RECUPERAÇÃO PARALELA - 4H30,11/05/2023 - EDUCAÇÃO FÍSICA - 1H,24/05/2023 - RECUPERAÇÃO PARALELA - 4H30,31/05/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"19H"
+            },
+            "Jul2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"07/06/2023 - RECUPERAÇÃO PARALELA - 4H30,14/06/2023 - RECUPERAÇÃO PARALELA - 4H30,21/06/2023 - RECUPERAÇÃO PARALELA - 4H30,28/06/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"18H"
+            }
+        },
+        "1004989678": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mai2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"28/04/2023 - 1ª ANO (PINGO DE GENTE) - 5H",
+                "tcargas":"5H"
+            },
+            "Jun2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"29/05/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"1H"
+            },
+            "Jul2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            }
+        },
+        "3423348": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"08/03/2023 - RECUPERAÇÃO PARALELA - 4H,09/03/2023 - 3ª ANO (PINGO DE GENTE) - 5H,15/03/2023 - RECUPERAÇÃO PARALELA - 4H,22/03/2023 - RECUPERAÇÃO PARALELA - 4H,29/03/2023 - RECUPERAÇÃO PARALELA - 4H",
+                "tcargas":"21H"
+            },
+            "Mai2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"05/04/2023 - RECUPERAÇÃO PARALELA - 4H30,12/04/2023 - RECUPERAÇÃO PARALELA - 4H30,19/04/2023 - RECUPERAÇÃO PARALELA - 4H30,20/04/2023 - EDUCAÇÃO FÍSICA - 1H,26/04/2023 - RECUPERAÇÃO PARALELA - 4H30,03/05/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"22H50"
+            },
+            "Jun2023": {
+                "abonadas":"1 - 26/05/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"10/05/2023 - RECUPERAÇÃO PARALELA - 4H30,11/05/2023 - EDUCAÇÃO FÍSICA - 1H,17/05/2023 - RECUPERAÇÃO PARALELA - 4H30,24/05/2023 - RECUPERAÇÃO PARALELA - 4H30,31/05/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"19H"
+            },
+            "Jul2023": {
+                "abonadas":"2 - 29/06/2023, A - 16/06/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"07/06/2023 - RECUPERAÇÃO PARALELA - 4H30,14/06/2023 - RECUPERAÇÃO PARALELA - 4H30,21/06/2023 - RECUPERAÇÃO PARALELA - 4H30,26/06/2023 - RECUPERAÇÃO PARALELA - 4H30,28/06/2023 - 3ª ANO-A (PINGO DE GENTE) - 5H,28/06/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"18H"
+            }
+        },
+        "5233428": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"09/02/2023 - EDUCAÇÃO FÍSICA - 1H,23/02/2023 - 3ª ANO-C (ANNA PINTO) - 5H",
+                "tcargas":"6H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mai2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"14/04/2023 - EDUCAÇÃO FÍSICA - 1H,21/04/2023 - EDUCAÇÃO FÍSICA - 0H40",
+                "tcargas":"1H40"
+            },
+            "Jun2023": {
+                "abonadas":"1 - 29/05/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"08/05/2023 - RECUPERAÇÃO PARALELA - 4H30,15/05/2023 - RECUPERAÇÃO PARALELA - 4H30,17/05/2023 - RECUPERAÇÃO PARALELA - 4H30,22/05/2023 - RECUPERAÇÃO PARALELA - 4H30,24/05/2023 - RECUPERAÇÃO PARALELA - 4H30,26/05/2023 - EDUCAÇÃO FÍSICA - 1H,31/05/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"27H50"
+            },
+            "Jul2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"05/06/2023 - RECUPERAÇÃO PARALELA - 4H30,07/06/2023 - RECUPERAÇÃO PARALELA - 4H30,12/06/2023 - RECUPERAÇÃO PARALELA - 4H30,14/06/2023 - RECUPERAÇÃO PARALELA - 4H30,16/06/2023 - EDUCAÇÃO FÍSICA - 1H,19/06/2023 - RECUPERAÇÃO PARALELA - 4H30,21/06/2023 - RECUPERAÇÃO PARALELA - 4H30,26/06/2023 - RECUPERAÇÃO PARALELA - 4H30,28/06/2023 - RECUPERAÇÃO PARALELA - 4H30,03/07/2023 - RECUPERAÇÃO PARALELA - 4H30",
+                "tcargas":"41H30"
+            }
+        },
+        "1002452078": {
+            "Fev2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mar2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"10/02/2023 - EDUCAÇÃO FÍSICA - 1H,17/02/2023 - EDUCAÇÃO FÍSICA - 1H,24/02/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"3H"
+            },
+            "Abr2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Mai2023": {
+                "abonadas":"1 - 17/04/2023", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"06/04/2023 - EDUCAÇÃO FÍSICA - 1H,13/04/2023 - EDUCAÇÃO FÍSICA - 1H",
+                "tcargas":"2H"
+            },
+            "Jun2023": {
+                "abonadas":"SEM OCORRENCIA", 
+                "outras":"SEM OCORRENCIA",
+                "cargas":"SEM OCORRENCIA",
+                "tcargas":"0H"
+            },
+            "Jul2023": {
+                "abonadas":"2 - 05/06/2023", 
                 "outras":"SEM OCORRENCIA",
                 "cargas":"SEM OCORRENCIA",
                 "tcargas":"0H"
